@@ -1,6 +1,6 @@
 # Hybrid Differential Privacy Framework for Protecting Sensitive Text Data in NLP
 
-## 📌 Overview
+## Overview
 
 This repository contains the implementation of a **Hybrid Differential Privacy (DP) framework** designed to protect sensitive textual data in Natural Language Processing (NLP) applications.
 
@@ -27,11 +27,11 @@ Existing approaches:
 
 ## Key Contributions
 
-- ✅ Hybrid privacy framework (Anonymization + DP-SGD)
-- ✅ Sensitivity-aware noise allocation mechanism
-- ✅ Unified experimental comparison (V0–V3 models)
-- ✅ Attack-based privacy evaluation (MIA + memorization)
-- ✅ End-to-end chatbot deployment validation
+- Hybrid privacy framework (Anonymization + DP-SGD)
+- Sensitivity-aware noise allocation mechanism
+- Unified experimental comparison (V0–V3 models)
+- Attack-based privacy evaluation (MIA + memorization)
+- End-to-end chatbot deployment validation
 
 
 ## System Architecture
@@ -74,14 +74,14 @@ The pipeline consists of:
 
 ## Key Results
 
-- 🔒 **Memorization reduced to 0%** (DP models)
-- 🎯 **Hybrid model retains ~79.5% utility**
-- 🛡️ **MIA performance reduced to near-random**
-- ⚖️ Improved privacy–utility balance vs baselines
+- **Memorization reduced to 0%** (DP models)
+- **Hybrid model retains ~79.5% utility**
+- **MIA performance reduced to near-random**
+- Improved privacy–utility balance vs baselines
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/hybrid-dp-nlp-privacy.git
