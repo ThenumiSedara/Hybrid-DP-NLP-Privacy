@@ -61,6 +61,23 @@ The pipeline consists of:
    - Privacy: MIA, memorization, canary exposure
 
 
+The proposed hybrid framework integrates preprocessing, adaptive privacy mechanisms, and evaluation in a unified pipeline.
+
+![System Architecture](figures/system_architecture.png)
+
+## Research Pipeline
+
+The complete experimental workflow from raw text to privacy evaluation is shown below.
+
+![Research Pipeline](figures/research_pipeline.png)
+
+## Sensitivity-Aware Privacy Mechanism
+
+The framework dynamically adjusts noise based on input sensitivity.
+
+![Sensitivity Mechanism](figures/sensitivity_mechanism.png)
+
+
 ## Model Variants
 
 | Model | Description |
