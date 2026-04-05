@@ -65,6 +65,8 @@ Dynamic noise adjustment based on per-input sensitivity scores, balancing protec
 ---
 
 ## Project Structure
+
+```
 Hybrid-DP-NLP-Privacy/
 │
 ├── README.md
@@ -97,7 +99,7 @@ Hybrid-DP-NLP-Privacy/
 ├── system_architecture.png
 ├── research_pipeline.png
 └── sensitivity_mechanism.png
-
+```
 ---
 
 ## Installation
