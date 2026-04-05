@@ -93,12 +93,7 @@ Hybrid-DP-NLP-Privacy/
 │   │   ├── 02_rq2_sensitivity_dp_sgd.ipynb
 │   │   └── 03_rq3_mia_memorization_defense.ipynb
 │   ├── utils/                   # Utility functions
-│   └── images/                  # Research diagrams
-│
-└── Images/                      # Figures used in README/thesis
-├── system_architecture.png
-├── research_pipeline.png
-└── sensitivity_mechanism.png
+│  
 ```
 ---
 
